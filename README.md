@@ -1,7 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 A **full-stack realtime chatting platform** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 It enables users to have seamless, real-time conversations with features like **secure authentication**, **online user status**, and **media sharing**.  
 Powered by **Socket.io** for instant messaging, **JWT** for security, and **Zustand** for state management, it’s designed to be **responsive**, **user-friendly**, and **scalable** for personal or group chats.
